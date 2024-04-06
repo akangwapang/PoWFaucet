@@ -1,4 +1,4 @@
-# Sepolia Holesky Faucet
+# Sepolia Holesky & Ephemery Faucet
 <img src="https://faucets.pk910.de/images/logo-cat-small.png" height="90px" />
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pk910/PoWFaucet?label=Latest%20Release)](https://github.com/pk910/PoWFaucet/releases/latest)
